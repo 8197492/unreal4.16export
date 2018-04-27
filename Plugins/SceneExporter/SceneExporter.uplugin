@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SceneExporter",
+	"Description": "Scene Exporter",
+	"Category": "Other",
+	"CreatedBy": "Napoleon314",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SceneExporter",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
